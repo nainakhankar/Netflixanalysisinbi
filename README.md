@@ -88,9 +88,7 @@ This project delivers **insightful visual analytics** across Movies and TV Shows
 
 ### ⚙️ Setup Steps
 
-#### 1️⃣ Clone the Repository
-
-```bash
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/netflix-dashboard.git
 cd netflix-dashboard
 2️⃣ Run Data Cleaning Notebook
