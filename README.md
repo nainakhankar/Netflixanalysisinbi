@@ -97,6 +97,3 @@ jupyter notebook Netflix_dataCleaning.ipynb
 
 3️⃣ Open Power BI Dashboard
 
-Open dashboard.pbix in Power BI Desktop
-
-Refresh dataset if prompted
