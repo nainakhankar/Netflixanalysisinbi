@@ -91,8 +91,10 @@ This project delivers **insightful visual analytics** across Movies and TV Shows
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/netflix-dashboard.git
 cd netflix-dashboard
+
 2️⃣ Run Data Cleaning Notebook
 jupyter notebook Netflix_dataCleaning.ipynb
+
 3️⃣ Open Power BI Dashboard
 
 Open dashboard.pbix in Power BI Desktop
